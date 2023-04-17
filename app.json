@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "scheme": "acme",
+    "web": {
+      "bundler": "metro"
+    },
+    "name": "gundb-mobile-test",
+    "slug": "gundb-mobile-test"
+  }
+}
